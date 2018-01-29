@@ -1,2 +1,0 @@
-# EndlessSpace
-KSP Mod Pack
