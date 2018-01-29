@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<config>
+    <rect name="ScenarioTester-WindowPos">
+        <xmin>1117</xmin>
+        <xmax>1437</xmax>
+        <ymin>0</ymin>
+        <ymax>100</ymax>
+    </rect>
+    <bool name="ScenarioTester-window_enabled">1</bool>
+</config>
